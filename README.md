@@ -14,7 +14,7 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 1. Performed data cleaning and manipulation.
 2. Performed Exploratory Data Analysis (EDA) using pandas, matplotlib and seaborn libraries.
 3. Improved customer experience by identifying potential customers across different states, occupation, gender and age groups.
-4. Improved sales by identifying most sellig product categories and products, which can help to plan inventory and hence meet the demands.
+4. Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
 
 # Analysis Result:
 ![Sales1](https://github.com/Navina-Murugadas/Diwali_Sales_Analysis_DataAnalyticsProject/assets/72821323/17e6a6cf-6086-446e-ae90-9e8e1ce17312)
